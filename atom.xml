@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>wasedchildren的博客</title>
   
-  <subtitle>终是归途</subtitle>
+  <subtitle>wasedchildren</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-04T06:07:22.531Z</updated>
+  <updated>2020-06-08T06:37:27.509Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,17 +17,67 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello world&#39;s</title>
-    <link href="http://yoursite.com/2020/06/04/Hello-world-s/"/>
-    <id>http://yoursite.com/2020/06/04/Hello-world-s/</id>
-    <published>2020-06-04T06:07:22.000Z</published>
-    <updated>2020-06-04T06:07:22.531Z</updated>
+    <title>个人简历</title>
+    <link href="http://yoursite.com/2020/06/08/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86/"/>
+    <id>http://yoursite.com/2020/06/08/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86/</id>
+    <published>2020-06-08T05:58:27.000Z</published>
+    <updated>2020-06-08T06:37:27.509Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="简历"><a href="#简历" class="headerlink" title="简历"></a>简历</h1><br><div class="row">    <embed src="个人简历.pdf" width="100%" height="550" type="application/pdf"></div> <!-- <div class="row">    <embed src="http://7xov2f.com1.z0.glb.clouddn.com/bash_freshman.pdf" width="100%" height="550" type="application/pdf"></div> --><br>]]></content>
     
     <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;简历&quot;&gt;&lt;a href=&quot;#简历&quot; class=&quot;headerlink&quot; title=&quot;简历&quot;&gt;&lt;/a&gt;简历&lt;/h1&gt;&lt;br&gt;
+
+
+
+	&lt;div class=&quot;row&quot;&gt;
+    &lt;embed src=&quot;个人简历.pdf&quot; width=&quot;100%&quot; height=
+      
     
     </summary>
     
     
+      <category term="我的简历" scheme="http://yoursite.com/categories/%E6%88%91%E7%9A%84%E7%AE%80%E5%8E%86/"/>
+    
+    
+      <category term="个人简历" scheme="http://yoursite.com/tags/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>梦开始的地方</title>
+    <link href="http://yoursite.com/2020/06/04/Hello-world-s/"/>
+    <id>http://yoursite.com/2020/06/04/Hello-world-s/</id>
+    <published>2020-06-04T06:07:22.000Z</published>
+    <updated>2020-06-08T05:46:30.571Z</updated>
+    
+    <content type="html"><![CDATA[<p>词：童安格/苏来</p><p>曲：童安格</p><p>浩瀚夜空遥远的角落</p><p>挂着一颗蓝蓝的星球</p><p>缓缓地转动</p><p>春夏秋冬一切好像不会更动</p><p>但就在你我不经意之中</p><p>最美好的已失落</p><p>当浮云拒绝了阳光的问候</p><p>还有多少温暖在你的心头</p><p>当星星已不再出现在夜空</p><p>你还有多少梦想多少希望</p><p>水中来尘里去生生不息</p><p>生命就像蜿蜒的江河</p><p>慢慢流过岁月</p><p>人来人往有些爱永不更改</p><p>在你我忘了珍惜的时候</p><p>最美好的已远走</p><p>能不能把碧绿还给大地</p><p>能不能把蔚蓝也还给海洋</p><p>能不能把透明还给天空</p><p>梦开始的地方</p><p>一切还给自然</p><p>梦开始的地方</p><p>一切还给自然</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;词：童安格/苏来&lt;/p&gt;
+&lt;p&gt;曲：童安格&lt;/p&gt;
+&lt;p&gt;浩瀚夜空遥远的角落&lt;/p&gt;
+&lt;p&gt;挂着一颗蓝蓝的星球&lt;/p&gt;
+&lt;p&gt;缓缓地转动&lt;/p&gt;
+&lt;p&gt;春夏秋冬一切好像不会更动&lt;/p&gt;
+&lt;p&gt;但就在你我不经意之中&lt;/p&gt;
+&lt;p&gt;最美好的已失落&lt;/p&gt;
+&lt;p&gt;当浮云拒绝了阳光
+      
+    
+    </summary>
+    
+    
+      <category term="情感分享" scheme="http://yoursite.com/categories/%E6%83%85%E6%84%9F%E5%88%86%E4%BA%AB/"/>
+    
+    
+      <category term="个人生活" scheme="http://yoursite.com/tags/%E4%B8%AA%E4%BA%BA%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
@@ -36,7 +86,7 @@
     <link href="http://yoursite.com/2020/06/04/hello-world/"/>
     <id>http://yoursite.com/2020/06/04/hello-world/</id>
     <published>2020-06-04T05:33:03.069Z</published>
-    <updated>2020-06-04T05:33:03.070Z</updated>
+    <updated>2020-06-08T05:55:11.287Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
     
