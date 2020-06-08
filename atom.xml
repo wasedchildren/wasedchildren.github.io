@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>wasedchildren的博客</title>
   
-  
+  <subtitle>终是归途</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
@@ -10,7 +10,7 @@
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>军·邱</name>
+    <name>邱·军</name>
     
   </author>
   
