@@ -108,9 +108,9 @@
     <link href="https://www.wasedchildren.top/2019/06/10/aboutvue/"/>
     <id>https://www.wasedchildren.top/2019/06/10/aboutvue/</id>
     <published>2019-06-10T08:57:58.000Z</published>
-    <updated>2020-06-10T09:20:55.512Z</updated>
+    <updated>2020-06-10T09:44:30.615Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="关于-vue-cli-2-9-版本的-axios-请求数据问题"><a href="#关于-vue-cli-2-9-版本的-axios-请求数据问题" class="headerlink" title="关于 vue-cli 2.9 版本的 axios 请求数据问题"></a>关于 vue-cli 2.9 版本的 axios 请求数据问题</h2><hr><p>相信很多从 vue 2.9 版本的初学小伙伴都有这样的经历，在看网上视频教程的时候，由于版本不同，通常讲师的 axios 请求的数据放在了 build 文件下的 dev-serve.js 文件中，而更新了 vue 的版本之后，新的 vue-cli 脚手架工具已经没有了这个文件，那么 axios 请求放在哪个文件下呢？<br><img src="https://img-blog.csdn.net/20180228094101401" alt=""><br><img src="https://img-blog.csdn.net/20180228094115698" alt=""><br>而现在我们可以吧 axios 的请求放在 webpack.base 的文件中</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="关于-vue-cli-2-9-版本的-axios-请求数据问题"><a href="#关于-vue-cli-2-9-版本的-axios-请求数据问题" class="headerlink" title="关于 vue-cli 2.9 版本的 axios 请求数据问题"></a>关于 vue-cli 2.9 版本的 axios 请求数据问题</h2><hr><p>相信很多从 vue 2.9 版本的初学小伙伴都有这样的经历，在看网上视频教程的时候，由于版本不同，通常讲师的 axios 请求的数据放在了 build 文件下的 dev-serve.js 文件中，而更新了 vue 的版本之后，新的 vue-cli 脚手架工具已经没有了这个文件，那么 axios 请求放在哪个文件下呢？<br><img src="vue1.png" alt=""><br><img src="vue2.png" alt=""><br>而现在我们可以吧 axios 的请求放在 webpack.base 的文件中</p>]]></content>
     
     <summary type="html">
     
